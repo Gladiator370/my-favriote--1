@@ -1,0 +1,102 @@
+body{
+    margin: 0;
+    text-align: center;
+    padding-top: 800px;
+}
+.profile{
+    width: :200px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+}
+#Welcome{
+    position: absolute;
+    height: 800px;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom:0;
+    color: snow;
+    opacity: 0.83;
+    background:linear-gradient(#20fc03 0%,#00d1bc 100%);
+    display: table;
+    width: 100%;
+    height: :100%   
+}
+h1{
+    font-size: 40px;
+    font-family: cursive;
+        font-weight:300;
+    line-height: 1.2;
+}
+h1{
+    font-size: 30px;
+    font-family: cursive;
+        font-weight:300;
+    line-height: 1.2;
+}
+#Bio{
+padding: 50px;
+    text-align: center;
+    font-size: 42px;
+}
+.line{
+    height:6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+p{
+    font-size: 17px;
+    line-height: 1.3;
+    margin: 25px auto;
+    max-width: 450px;
+        
+}
+.menu{
+    list-style:none;
+    font-family: cursive;
+    font-size: 25px;
+    position: fixed;
+    cursor:pointer;
+    top: 10px;
+    right: 30px;
+    z-index: 10;
+    
+}
+.links{
+    float: left;
+    color: darkred;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-bottom: 5px;
+    padding-right: 9px;
+    font-family: cursive;
+    font-size: ;20px
+}
+.links:hover{
+    background-color: aqua;
+    
+}
+html{
+    scroll-behavior: smooth;
+}
+a{
+text-decoration: none;
+    
+}
+.article:hover{
+    color: black;
+}
+#Contacts{
+    background-color: red;
+}
+#Contacts iframe{
+   width: 100%; 
+}
+.contact_1 h3{
+    display: inline;
+}
+.contact_1 a {
+   color: white;
+    text-shadow: none;
+}
